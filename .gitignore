@@ -1,0 +1,13 @@
+### IntelliJ ###
+.idea
+*.iml
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+
+### Project ###
+target/
+log/
+tmp/
