@@ -3,4 +3,4 @@
 
 | # | Title | Solution | 
 |---| ----- | -------- |
-|10942|[팰린드롬?](https://www.acmicpc.net/problem/10942) | [Java](./10942_palindrome?/java) |
+|10942|[팰린드롬?](https://www.acmicpc.net/problem/10942) | [Java](./10942_palindrome/java) |
